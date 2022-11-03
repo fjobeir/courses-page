@@ -126,6 +126,7 @@ header {
     left: 0;
     display: none;
     text-align: center;
+    z-index: 3;
 }
 #categories > ul > li:hover > ul {
     /* display: flex; */
