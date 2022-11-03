@@ -103,7 +103,7 @@ header {
 #categories > ul > li > a {
     transition:0.2s all ease-in;
 }
-#categories > ul > li:hover .menu-arrow {
+#categories > ul > li:hover ul + .position-relative .menu-arrow {
     display: block;
 }
 
